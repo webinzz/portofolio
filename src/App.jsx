@@ -1,8 +1,8 @@
 // import Home from "./page/home"
-import Home from "./page/home"
+import Home from "./Page/HomePage"
 import { BrowserRouter as  Router, Routes, Route, } from "react-router-dom";
-import About from "./page/about";
-import Project from "./page/project"
+import About from "./Page/AboutPage";
+import Project from "./Page/ProjectPage"
 import 'aos/dist/aos.css';
 import AOS from 'aos';
 import { useEffect } from 'react';

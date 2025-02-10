@@ -1,6 +1,6 @@
 // import React from 'react'
 import Navbar from "../components/Layouts/Navbar/Navbar";
-import Experience from '../components/experience'
+import Experience from '../components/Experience'
 import Skill from "../components/Skill";
 import me from "../assets/me/me3.png";
 

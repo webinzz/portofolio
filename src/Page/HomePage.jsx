@@ -1,7 +1,7 @@
 // import React from 'react'
 import Navbar from "../components/Layouts/Navbar/Navbar";
 import Header from "../components/Layouts/Header/Header";
-import About from "../components/about";
+import About from "../components/About";
 import Project from "../components/Project";
 import Contact from "../components/Contact";
 import { useLocation } from "react-router-dom";

@@ -1,7 +1,7 @@
 // import React from 'react'
 import Navbar from "../components/Layouts/Navbar/Navbar";
 // import Project from "../components/project"
-import Projec from "../components/projec";
+import Projec from "../components/Projec";
 import Suit from "../assets/portofolio/batu.png";
 import Company from "../assets/portofolio/compaany.png";
 import Khodam from "../assets/portofolio/khodam.png";
